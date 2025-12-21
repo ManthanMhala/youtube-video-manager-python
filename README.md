@@ -24,7 +24,7 @@ Concepts Used:
   File export (CSV)
   CLI-based user interaction
 
-Sample Menu
+Sample Menu 
 1. All videos
 2. Add video
 3. Update video
@@ -41,6 +41,6 @@ Writing clean and readable code
 understanding real-world CRUD functionality
 Understanding debugging and error handling skills
 
-Author
+Author                                                                                                                                                                                                               
 Manthan Mhala
 __CSE Undergrad @PRMCEAM | Turning backend logic into frontend magic | Full Stack Developer with Python soul
