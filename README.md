@@ -34,7 +34,6 @@ Sample Menu
 7. Export CSV file
 8. Exit
 
-Learning Outcomes
 Hands-on experience with Python + SQLite
 Understanding of database-driven applications
 Writing clean and readable code
