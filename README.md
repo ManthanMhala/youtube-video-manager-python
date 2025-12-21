@@ -3,7 +3,7 @@ YouTube Video Manager (Python CLI Project)
 YouTube Video Manager is a command-line application built using Python and SQLite that allows users to manage video records efficiently.
 This project demonstrates core Python programming, database operations, CRUD operations, and clean CLI design.
 
-Features
+Features                                                                                                                                                                                                             
 Add new videos with id, name and time
 View all stored videos
 Search videos by name
@@ -13,16 +13,16 @@ Sort videos based on time
 Export video data to CSV format
 Graceful error handling for database operations
 
-Tech Stack
-Language: Python
-Database: SQLite3
-Concepts Used:
-  CRUD operations
-  SQL queries
-  Modular functions
-  Exception handling
-  File export (CSV)
-  CLI-based user interaction
+Tech Stack                                                                                                                                                                                                           
+Language: Python                                                                                                                                                                                                     
+Database: SQLite3                                                                                                                                                                                                    
+Concepts Used:                                                                                                                                                                                                       
+  CRUD operations                                                                                                                                                                                                    
+  SQL queries                                                                                                                                                                                                        
+  Modular functions                                                                                                                                                                                                  
+  Exception handling                                                                                                                                                                                                 
+  File export (CSV)                                                                                                                                                                                                  
+  CLI-based user interaction                                                                                                                                                                                         
 
 Sample Menu 
 1. All videos
