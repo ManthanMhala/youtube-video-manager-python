@@ -41,5 +41,6 @@ understanding real-world CRUD functionality
 Understanding debugging and error handling skills
 
 Author                                                                                                                                                                                                               
-Manthan Mhala
+Manthan Mhala @2026
 __CSE Undergrad @PRMCEAM | Turning backend logic into frontend magic | Full Stack Developer with Python soul
+
